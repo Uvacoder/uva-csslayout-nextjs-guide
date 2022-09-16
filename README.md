@@ -1,5 +1,5 @@
 # CSS Layout
-
+--
 A collection of popular layouts and patterns made with CSS:
 
 * 🎉 Zero dependencies
@@ -43,7 +43,7 @@ $ npm run dev
 ```
 
 Visit http://localhost:3000 to see it in action.
-
+x
 ## Contributing
 
 PRs are welcomed. If you think there are any missing useful layouts or patterns, please create an issue or submit a PR.
